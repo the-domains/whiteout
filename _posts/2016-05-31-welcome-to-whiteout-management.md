@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We are founded by Kemi Akinbileje, and housed under Kiwi Enterprises.'
-datePublished: '2016-06-01T03:44:57.245Z'
-dateModified: '2016-06-01T03:44:35.374Z'
+datePublished: '2016-06-01T04:02:58.180Z'
+dateModified: '2016-06-01T03:45:08.283Z'
 title: Welcome to WHITEOUT MANAGEMENT
 author: []
 sourcePath: _posts/2016-05-31-welcome-to-whiteout-management.md
