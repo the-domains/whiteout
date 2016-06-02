@@ -1,29 +1,41 @@
-name: WHITEOUT
-favicon: null
-layout_spectrum: 0.50915
-typography_spectrum: 1
 title: WHITEOUT MANAGEMENT
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.50915
+favicon: null
+name: WHITEOUT
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.6341806496493518
+  saturation: 0.3021641806699336
   brandColors:
     - '#a6aeb0'
     - '#0d1011'
     - '#ffffff'
     - '#7f7f7f'
     - '#474747'
-  brandStrength: 0.6341806496493518
-  lightness: 0.30628889286890626
-  saturation: 0.30216418066993356
+  lightness: 0.3062888928689063
   rhythmicContrast: 0.9306410739663988
-purpose: []
+typography_spectrum: 0.6021277
