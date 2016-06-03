@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Inspirational Battle Rap
-datePublished: '2016-06-03T05:16:52.412Z'
-dateModified: '2016-06-03T05:16:48.863Z'
+datePublished: '2016-06-03T05:24:14.215Z'
+dateModified: '2016-06-03T05:24:06.416Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
