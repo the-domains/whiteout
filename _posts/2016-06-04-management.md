@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T15:55:46.584Z'
-dateModified: '2016-06-04T15:55:29.777Z'
+datePublished: '2016-06-04T15:56:13.634Z'
+dateModified: '2016-06-04T15:56:07.831Z'
 title: 'MANAGEMENT '
 author: []
+sourcePath: _posts/2016-06-04-management.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-04-management.md
 url: management/index.html
 _type: Article
 
