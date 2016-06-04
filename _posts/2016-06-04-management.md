@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T16:00:13.760Z'
-dateModified: '2016-06-04T16:00:10.622Z'
+datePublished: '2016-06-04T16:09:57.206Z'
+dateModified: '2016-06-04T16:09:56.172Z'
 title: MANAGEMENT TEAM LEADERS
 author: []
 sourcePath: _posts/2016-06-04-management.md
