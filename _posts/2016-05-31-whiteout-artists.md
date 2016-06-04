@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: CLIENTS
-datePublished: '2016-06-04T14:58:54.728Z'
-dateModified: '2016-06-04T14:57:56.796Z'
+datePublished: '2016-06-04T14:59:53.768Z'
+dateModified: '2016-06-04T14:59:52.641Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
