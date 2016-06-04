@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T15:58:34.118Z'
-dateModified: '2016-06-04T15:58:33.326Z'
-title: 'MANAGEMENT '
+datePublished: '2016-06-04T16:00:13.760Z'
+dateModified: '2016-06-04T16:00:10.622Z'
+title: MANAGEMENT TEAM LEADERS
 author: []
 sourcePath: _posts/2016-06-04-management.md
 authors: []
@@ -17,7 +17,7 @@ url: management/index.html
 _type: WebPage
 
 ---
-# MANAGEMENT 
+# MANAGEMENT TEAM LEADERS
 
 ## MALCOLM BERRY
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e22e8e78-676e-420a-a7f9-2310b892e927.jpg)
