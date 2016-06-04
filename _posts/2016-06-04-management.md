@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T15:56:13.634Z'
-dateModified: '2016-06-04T15:56:07.831Z'
+datePublished: '2016-06-04T15:58:34.118Z'
+dateModified: '2016-06-04T15:58:33.326Z'
 title: 'MANAGEMENT '
 author: []
 sourcePath: _posts/2016-06-04-management.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: management/index.html
-_type: Article
+_type: WebPage
 
 ---
 # MANAGEMENT 
