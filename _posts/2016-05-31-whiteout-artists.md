@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-07T00:50:37.908Z'
-dateModified: '2016-06-07T00:50:35.673Z'
+datePublished: '2016-06-07T01:50:42.243Z'
+dateModified: '2016-06-07T01:47:48.051Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
@@ -16,7 +16,7 @@ authors: []
 publisher: null
 starred: false
 url: whiteout-artists/index.html
-_type: Article
+_type: WebPage
 
 ---
 # WHITEOUT ARTISTS
