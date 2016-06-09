@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-09T06:48:10.654Z'
-dateModified: '2016-06-09T06:45:24.145Z'
+datePublished: '2016-06-09T06:49:47.235Z'
+dateModified: '2016-06-09T06:48:26.781Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
@@ -31,3 +31,5 @@ _type: WebPage
 
 **T****eresa Lafferty** is a classically trained singer, dancer, and actress from Corona California. She received an A.O.S. in Acting for Stage and Film from the American Academy of Dramatic Arts in New York, and is currently seeking her B.F.A. in Dramatic Arts at The New School for Drama. Regional/Tours: Les Miserables (SoCal Tour) New York Credits: A Midsummer Night's Dream (Helena, New School for Drama), Loyal Women (Maureen, AADA), La Ronde, (The Whore, AADA), 12 Angry Jurors, Rimers of Eldritch, Enter Laughing and Uncommon Women and Others. She recently appeared on the TODAY show breaking the world record for "World's Largest Street Dance". Teresa will be assistant Directing Echoes of Ebola at the Peter Jay Sharp Theater through Playwright's Horizons in June 2016\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a59c2b98-869d-4ec2-bedb-b420374ea159.png)
+
+**Lashay Bradley** is a dancer, singer, and songwriter from the Northern Virginia and Washington, DC area. After graduating from South Lakes High School, she delves into a world of music, dance, and art, using her gifts to inspire others and give back to her hometown. As Whiteout Management's newest artist, she can't wait to throw her hat into the ring, and impact change on a global level.
