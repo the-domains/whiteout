@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-09T06:49:47.235Z'
-dateModified: '2016-06-09T06:48:26.781Z'
+datePublished: '2016-06-13T13:53:52.511Z'
+dateModified: '2016-06-13T13:53:48.416Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
@@ -24,12 +24,10 @@ _type: WebPage
 ****
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fe61b00-10f3-4c15-ae01-7a5ac33208a3.jpg)
 
-**Blackout **(right) is a battle rapper hailing the Northern Virginia and general DC Metropolitan area. His prolific messages leave his fans shivering with awe, and his energy has his audience at the edge of their seats. Sip (left) is a songwriter, guitarist, and performer. His lyrics are inspirational. Both artists are currently using their artistry to give back to their community.
+Sip is a songwriter, guitarist, rapper and performer. His lyrics are deep and inspirational. When spitting or singing a freestyle, he incorporates his love for music with his own truths and adventurous experience, bringing depth and consciousness to his audience's ears. He is currently using his artistry to give back to the community.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56b11eaf-974e-456e-8658-25e060766edd.jpg)
 
 **T****eresa Lafferty** is a classically trained singer, dancer, and actress from Corona California. She received an A.O.S. in Acting for Stage and Film from the American Academy of Dramatic Arts in New York, and is currently seeking her B.F.A. in Dramatic Arts at The New School for Drama. Regional/Tours: Les Miserables (SoCal Tour) New York Credits: A Midsummer Night's Dream (Helena, New School for Drama), Loyal Women (Maureen, AADA), La Ronde, (The Whore, AADA), 12 Angry Jurors, Rimers of Eldritch, Enter Laughing and Uncommon Women and Others. She recently appeared on the TODAY show breaking the world record for "World's Largest Street Dance". Teresa will be assistant Directing Echoes of Ebola at the Peter Jay Sharp Theater through Playwright's Horizons in June 2016\.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a59c2b98-869d-4ec2-bedb-b420374ea159.png)
 
-**Lashay Bradley** is a dancer, singer, and songwriter from the Northern Virginia and Washington, DC area. After graduating from South Lakes High School, she delves into a world of music, dance, and art, using her gifts to inspire others and give back to her hometown. As Whiteout Management's newest artist, she can't wait to throw her hat into the ring, and impact change on a global level.
+**Lashay Bradley** is a dancer, singer, and songwriter from the Northern Virginia and Washington, DC area. After graduating from South Lakes High School, she delves into a world of music, dance, and art, using her gifts to inspire others and give back to her hometown. As Whiteout Management's newest artist, she can't wait to throw her hat into the ring, and impact change on a global level. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1003a203-ea5c-438d-bcc2-41d8a08cecb3.jpg)
