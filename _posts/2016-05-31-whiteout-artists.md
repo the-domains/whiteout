@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T18:41:14.550Z'
-dateModified: '2016-06-13T18:41:04.458Z'
+datePublished: '2016-06-13T18:42:26.568Z'
+dateModified: '2016-06-13T18:42:19.545Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
@@ -24,7 +24,7 @@ _type: WebPage
 ****
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/641c48ff-8fbb-4a14-ad90-242d35cb374e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/332cd718b52db99df7fe780c860a9c4f84f847e4.jpg)
 
 Sip is a songwriter, guitarist, rapper and performer. His lyrics are deep and inspirational. When spitting or singing a freestyle, he incorporates his love for music with his own truths and adventurous experience, bringing depth and consciousness to his audience's ears. He is currently using his artistry to give back to the community.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56b11eaf-974e-456e-8658-25e060766edd.jpg)
