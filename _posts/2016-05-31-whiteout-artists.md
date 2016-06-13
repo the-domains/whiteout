@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-13T18:40:50.784Z'
-dateModified: '2016-06-13T18:40:34.430Z'
+datePublished: '2016-06-13T18:41:02.030Z'
+dateModified: '2016-06-13T18:40:54.977Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
