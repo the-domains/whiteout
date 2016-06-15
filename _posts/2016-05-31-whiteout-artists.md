@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-15T13:02:46.091Z'
-dateModified: '2016-06-15T13:02:45.839Z'
+datePublished: '2016-06-15T13:04:34.085Z'
+dateModified: '2016-06-15T13:04:26.305Z'
 title: WHITEOUT ARTISTS
 sourcePath: _posts/2016-05-31-whiteout-artists.md
 author:
@@ -26,9 +26,11 @@ _type: WebPage
 ****
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/315527d0-a6dd-4578-8d5a-fde3faeccbe9.jpg)
 
 ****
+
+****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2e2697-f13f-41ba-961f-e7210f976547.jpg)
 
 **Sip** is a songwriter, guitarist, rapper and performer. His lyrics are deep and inspirational. When spitting or singing a freestyle, he incorporates his love for music with his own truths and adventurous experience, bringing depth and consciousness to his audience's ears. He is currently using his artistry to give back to the community.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56b11eaf-974e-456e-8658-25e060766edd.jpg)
