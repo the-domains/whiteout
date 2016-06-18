@@ -8,8 +8,8 @@ description: >-
   Our management services are dedicated to quality and helping foster impact
   from a local community level first. We are founded by Kemi Akinbileje, and
   housed under Kiwi Enterprises.
-datePublished: '2016-06-18T03:04:17.437Z'
-dateModified: '2016-06-18T03:04:04.008Z'
+datePublished: '2016-06-18T03:05:46.972Z'
+dateModified: '2016-06-18T03:05:41.072Z'
 title: Welcome to WHITEOUT MANAGEMENT
 author: []
 sourcePath: _posts/2016-05-31-welcome-to-whiteout-management.md
@@ -20,8 +20,6 @@ url: welcome-to-whiteout-management/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21caa6db-8356-4b2f-840a-f8c87132b07c.png)
-
 # Welcome to WHITEOUT MANAGEMENT
 
 ## Where it's never too late to become one of the greats. 
