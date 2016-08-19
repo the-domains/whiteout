@@ -1,8 +1,30 @@
-name: WHITEOUT
-favicon: null
-layout_spectrum: 0.08188
 typography_spectrum: 0.6021277
-title: WHITEOUT MANAGEMENT
+color:
+  brandColors:
+    - '#040304'
+    - '#fffeff'
+    - '#5e5b5e'
+    - '#8d8b8d'
+    - '#c4c2c4'
+  brandStrength: 0.1875
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.9306410739663988
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.08188
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: WHITEOUT
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +37,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#040304'
-    - '#fffeff'
-    - '#5e5b5e'
-    - '#8d8b8d'
-    - '#c4c2c4'
-  brandStrength: 0.1875
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.9306410739663988
+title: WHITEOUT MANAGEMENT
+description: |-
+  Where it's 
+  never to
+   late to become one of the greats.
 purpose: []
